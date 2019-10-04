@@ -1,8 +1,10 @@
+
 ---
 layout: post
 title: If Statements
 categories: C# Programming
 ---
+ 
  ```csharp
 Console.WriteLine("what is the value of a");
             double a = Convert.ToDouble(Console.ReadLine());
