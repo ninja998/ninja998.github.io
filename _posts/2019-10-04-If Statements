@@ -4,7 +4,7 @@ title: If Statements
 categories: C# Programming
 ---
  
- ```csharp
+```csharp
 Console.WriteLine("what is the value of a");
             double a = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("what is the value of b");
@@ -23,7 +23,7 @@ Console.WriteLine("what is the value of a");
                 Console.WriteLine("a is smaller than b");
             }
             Console.ReadLine();
- ```
+```
  
  This Code compares the size of 2 numbers and tells you which one is bigger. It does this by using if statements to repeatadly put the two
  numbers through operations to see what the result is and then it outputs the information for the user.
